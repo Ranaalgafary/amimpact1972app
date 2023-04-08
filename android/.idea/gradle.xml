@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.21.1/android" />
+            <option value="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_in_app_messaging-0.6.0+24/android" />
+            <option value="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-11.4.4/android" />
+            <option value="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-9.9.0/android" />
+            <option value="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_splash-2.1.5/android" />
+            <option value="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.0.2/android" />
+            <option value="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_android-5.2.5/android" />
+            <option value="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.20/android" />
+            <option value="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.11/android" />
+            <option value="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-3.3.0/android" />
+            <option value="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.0+3/android" />
+            <option value="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.15/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="9.723" height="12.501" viewBox="0 0 9.723 12.501">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="9.723" height="12.501" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+    <g transform="translate(-29.966 -109.606)">
+      <path id="Icon_material-delete-forever" data-name="Icon material-delete-forever" d="M8.195,15.612A1.393,1.393,0,0,0,9.584,17H15.14a1.393,1.393,0,0,0,1.389-1.389V7.278H8.195ZM9.9,10.667l.979-.979,1.479,1.472,1.472-1.472.979.979L13.341,12.14l1.472,1.472-.979.979-1.472-1.472-1.472,1.472-.979-.979,1.472-1.472Zm4.889-5.473L14.1,4.5H10.625l-.695.695H7.5V6.584h9.723V5.195Z" transform="translate(22.466 105.106)" fill="#f33737"/>
+    </g>
+  </g>
+</svg>

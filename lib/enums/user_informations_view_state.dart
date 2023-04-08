@@ -1,0 +1,1 @@
+enum UserInformationsViewState { idle, editable }

@@ -1,0 +1,1 @@
+enum ProductsTypes { search, path }
