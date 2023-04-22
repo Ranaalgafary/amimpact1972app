@@ -1,7 +1,4 @@
 import 'package:amimpact/core/account/stores/account_store/account_store.dart';
-import 'package:amimpact/enums/user_informations_view_state.dart';
-import 'package:amimpact/enums/view_state.dart';
-import 'package:amimpact/stores/user_store.dart';
 import 'package:amimpact/utils/constants.dart';
 import 'package:amimpact/utils/helpers/ui_helper.dart';
 import 'package:amimpact/utils/locator.dart';

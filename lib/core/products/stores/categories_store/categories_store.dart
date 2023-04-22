@@ -2,7 +2,6 @@
 
 import 'package:amimpact/core/common/models/categories_model/categories_model.dart';
 import 'package:amimpact/core/common/models/categories_model/result.dart';
-import 'package:amimpact/models/category_model.dart';
 import 'package:amimpact/utils/locator.dart';
 import 'package:amimpact/utils/network_services/common_service.dart';
 import 'package:mobx/mobx.dart';
